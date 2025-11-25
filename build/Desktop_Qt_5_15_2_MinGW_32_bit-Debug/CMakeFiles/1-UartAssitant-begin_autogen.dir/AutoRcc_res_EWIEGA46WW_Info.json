@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin",
+	"CMAKE_SOURCE_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/serial.png"
+	],
+	"LOCK_FILE" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/1-UartAssitant-begin_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "E:/Qt/5.15.2/mingw81_32/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/1-UartAssitant-begin_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/res.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

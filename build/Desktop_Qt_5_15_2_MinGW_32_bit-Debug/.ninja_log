@@ -1,0 +1,26 @@
+# ninja log v6
+559	664	7851741913557940	1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp	d1b4c9819b36d26c
+7	276	7852642648852195	1-UartAssitant-begin_autogen/timestamp	2edc93b14137ecc4
+7	276	7852642648852195	1-UartAssitant-begin_autogen/mocs_compilation.cpp	2edc93b14137ecc4
+696	799	7851741913959548	CMakeFiles/1-UartAssitant-begin.dir/1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp.obj	94152262e06f6c27
+7	276	7852642648852195	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/timestamp	2edc93b14137ecc4
+1449	1673	7852642663271587	1-UartAssitant-begin.exe	8c4b2cfd69c78fac
+7	276	7852642648852195	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/mocs_compilation.cpp	2edc93b14137ecc4
+664	1571	7851741913648450	CMakeFiles/1-UartAssitant-begin.dir/1-UartAssitant-begin_autogen/mocs_compilation.cpp.obj	303d7e2bd34ded65
+277	1449	7852642651556823	CMakeFiles/1-UartAssitant-begin.dir/widget.cpp.obj	495f8af55692abd3
+675	1651	7851741913743583	CMakeFiles/1-UartAssitant-begin.dir/main.cpp.obj	9f8ed646b728c793
+3	491	7852658334655910	build.ninja	fde00f2c2eacfbe2
+2	63	7851740861889241	CMakeFiles/clean.additional	26ab82f82478fbc9
+63	75	7851740862497005	clean	fa92303e789e5432
+559	664	7851741913557940	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp	d1b4c9819b36d26c
+7	531	7852659863240768	1-UartAssitant-begin_autogen/timestamp	2edc93b14137ecc4
+7	531	7852659863240768	1-UartAssitant-begin_autogen/mocs_compilation.cpp	2edc93b14137ecc4
+7	531	7852659863240768	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/timestamp	2edc93b14137ecc4
+7	531	7852659863240768	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/mocs_compilation.cpp	2edc93b14137ecc4
+532	641	7852659865145830	1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp	d1b4c9819b36d26c
+532	641	7852659865145830	E:/Qt/UartAssitant_Project/1-UartAssitant-begin/1-UartAssitant-begin/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp	d1b4c9819b36d26c
+673	782	7852659865576634	CMakeFiles/1-UartAssitant-begin.dir/1-UartAssitant-begin_autogen/EWIEGA46WW/qrc_res.cpp.obj	74a27a2ee09875b
+641	1569	7852659865256151	CMakeFiles/1-UartAssitant-begin.dir/1-UartAssitant-begin_autogen/mocs_compilation.cpp.obj	7fdb78b78e582272
+652	1666	7852659865361277	CMakeFiles/1-UartAssitant-begin.dir/main.cpp.obj	2b0971d58596187d
+662	1944	7852659865466380	CMakeFiles/1-UartAssitant-begin.dir/widget.cpp.obj	49c79408b8b91551
+1944	2243	7852659878276349	1-UartAssitant-begin.exe	e99557684bc4ce3f
